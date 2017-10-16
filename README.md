@@ -10,3 +10,7 @@ novos ou também remover livros antigos, poderá ver também uma lista de pessoa
 quer um livro que não tem mais na biblioteca, ela poderá entrar em uma fila de espera, e este livro que está em falta, as pessoas 
 que o tem, não podem renovar mais nenhuma vez, só entregar o livro. O aluno podeŕa fazer o seu próprio cadastro. O aluno poderá
 ver quais são os livros que estão disponíveis para ele pegar, junto com a quantidade disponível.
+
+- tela de login
+- tela de cadastro
+- tela de listagem
