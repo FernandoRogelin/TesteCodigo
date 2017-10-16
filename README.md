@@ -1,13 +1,13 @@
 # Programa para uma Biblioteca
 
 # H1 Tela de Login:
-- Havera um campo para colocar o Login e a Senha do usuário, conecta com o banco(para ver se existe a conta, se não existir da erro)
+Havera um campo para colocar o Login e a Senha do usuário, conecta com o banco(para ver se existe a conta, se não existir da erro)
 e dependendo dos dados que colocar, a pessoa entra na sua conta como Administrador ou como Aluno normal, além de ter um campo para 
 fazer o cadastro novo (somente de aluno), o cadastro de um novo Administrador, só entrando na conta do ADM e fazendo um novo 
 cadastro do mesmo.
 
 # H1 Tela de cadastro:
-- Um espaço para colocar o Login do usuário (verifica no banco se já não existe um login igual), a senha, e-mail e o nome. O cadastro 
+Um espaço para colocar o Login do usuário (verifica no banco se já não existe um login igual), a senha, e-mail e o nome. O cadastro 
 irá ser mandado para o banco, salvando a nova conta criada.
 
 # H1 Tela do Aluno:
