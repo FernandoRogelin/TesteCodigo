@@ -6,11 +6,11 @@ e dependendo dos dados que colocar, a pessoa entra na sua conta como Administrad
 fazer o cadastro novo (somente de aluno), o cadastro de um novo Administrador, só entrando na conta do ADM e fazendo um novo 
 cadastro do mesmo.
 
-# H1 Tela de cadastro:
+# H2 Tela de cadastro:
 Um espaço para colocar o Login do usuário (verifica no banco se já não existe um login igual), a senha, e-mail e o nome. O cadastro 
 irá ser mandado para o banco, salvando a nova conta criada.
 
-# H1 Tela do Aluno:
+# H2 Tela do Aluno:
 Vai aparecer opções, ver quais livros estão disponíveis para o aluno, ver a data de entrega dos livros que pegou, deixar reservado 
 determinado livro, renovação de livros.
 
@@ -26,7 +26,7 @@ o livro por 1 semana.
 - Renovação - O aluno pode renovar o livro antes que a data expire, porém, ele é renovado por mais 1 semana, além de ter um limite
 máximo de 10 renovações por livro.
 
-# H1 Tela do Administrador:
+# H2 Tela do Administrador:
 Aparece opções, adicionar um novo administrador, ver livros que contém na biblioteca, remover livros antigos, adicionar livros 
 novos, ver todo mundo com data de atraso, ver os livros que foram reservados.
 
